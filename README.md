@@ -10,7 +10,7 @@ https://github.com/Rafael-Henrique07/noticias-cidade.git
 
 ## 🖼️ Preview
 
-> Adicione aqui um print ou GIF do site rodando
+<img width="800" height="425" alt="projeto_notcias_cidade-ezgif com-video-to-gif-converter" src="/imagens/projeto_notcias_cidade-ezgif.com-video-to-gif-converter.gif" />
 
 ## ✨ Funcionalidades
 
